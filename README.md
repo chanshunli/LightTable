@@ -1,4 +1,4 @@
-# Light Table [![Build Status](https://travis-ci.org/LightTable/LightTable.svg?branch=master)](https://travis-ci.org/LightTable/LightTable)
+# Jimw Light Table 流式编辑器 [![Build Status](https://travis-ci.org/LightTable/LightTable.svg?branch=master)](https://travis-ci.org/LightTable/LightTable)
 
 [![Join the chat at https://gitter.im/LightTable/LightTable](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LightTable/LightTable?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
